@@ -1,0 +1,227 @@
+La estructura base ideal es un sitio B2B corporativo con home muy enfocada a propuesta de valor, navegación corta y clara (máx. 6–7 ítems de menú), y secciones profundas para portafolio, soluciones y credenciales, alineada con el documento B2B 2026 y referencias como Asian Food Group y Bibigo.
+​
+​
+
+Menú principal (top)
+Inicio
+
+Nosotros
+
+Soluciones B2B
+
+Portafolio
+
+Marcas
+
+Recursos
+
+Contacto / Cotizar
+
+Objetivo: ofrecer una navegación simple que responda rápido a “quién eres / qué ofreces / por qué confiar / cómo te contacto”, similar a la claridad estructural de Asian Food Group donde separan “About”, “Solutions/Services” y “Products”.
+​
+
+Inicio (Home)
+Objetivo: convertir visitas en leads B2B en el menor scroll posible, dejando la profundidad para páginas internas, inspirada en la claridad de “Your Trusted Asian Food Wholesale Partner” de Asian Food Group y el storytelling visual de Bibigo.
+​
+​
+
+Bloques sugeridos:
+
+Hero / Above the fold
+
+Headline clara tipo: “Distribuidor mayorista de alimentos asiáticos en México” + subtexto sobre experiencia, trato directo con productoras y capacidad de suministro internacional.
+​
+
+CTA doble: “Descargar portafolio B2B” y “Agendar llamada con ventas”.
+
+Micro‐lista de beneficios (10+ años de experiencia, presencia nacional, logística especializada).
+​
+
+Confianza inmediata
+
+Logos de principales clientes B2B (Wal-Mart, Costco, HEB, etc.) y marcas (Lotte, Samyang, CJ, etc.), tomando como referencia el uso de logotipos de clientes y marcas socias en tu presentación corporativa y el enfoque de credenciales que usa Asian Food Group.
+​
+​
+
+Qué hacemos / Propuesta de valor
+
+Bloque corto con 3 columnas: “Importación directa”, “Distribución a cadenas comerciales”, “Mayoreo y tiendas AsiaOn Mart”, explicando en una frase cada uno.
+​
+
+Micro‐link a “Soluciones B2B” para profundizar, como hace Asian Food Group con su página de soluciones y servicios.
+​
+
+Oportunidad de mercado
+
+Resumen de por qué los productos asiáticos son un destino de compra recurrente, alineado a tu sección de “Oportunidades del mercado” y al enfoque de crecimiento de categorías como hace Bibigo en “Our story”.
+​
+​
+
+Mini bloque “Por qué LB Asian Food”
+
+3–4 bullets: experiencia en mercado mexicano, enfoque en gastronomía coreana, alianzas con marcas líderes, estructura logística para cadenas.
+​
+
+CTA final
+
+“Ver portafolio completo” + “Contactar al equipo comercial”, replicando la lógica de guiar al usuario hacia catálogo y contacto como hace Asian Food Group en su flujo de navegación.
+​
+
+Nosotros
+Objetivo: transmitir imagen ejecutiva/corporativa y confianza, alineado con el documento B2B 2026, usando la narrativa de “blending heritage with innovation” y tono corporativo similar a Asian Food Group.
+​
+​
+
+Secciones internas:
+
+Quiénes somos
+
+Resumen de LB Asian Food con sede en CDMX y más de 10 años de experiencia en importación directa y comercialización de productos asiáticos.
+​
+
+Enfoque en gastronomía coreana y mercado mexicano, similar al posicionamiento claro de Asian Food Group en Europa.
+​
+​
+
+Mensaje del CEO
+
+Bloque destacado con el texto adaptado de la carta del CEO, mostrando compromiso con calidad, socios comerciales y visión de futuro.
+​
+
+Trayectoria y hitos
+
+Línea de tiempo simple: 2014 (inicio) → alianzas con marcas líderes → expansión a tres canales (mayoreo, AsiaOn Mart, cadenas comerciales).
+​
+
+Nuestra forma de trabajar
+
+3–4 pilares: cercanía con productores, planificación conjunta con cadenas, soporte en ejecución comercial, acompañamiento en data/category management (inspirado en el lenguaje de “data” y “growth” de Asian Food Group).
+​
+
+Soluciones B2B
+Objetivo: segmentar propuestas para distintos tipos de clientes B2B (cadenas, mayoreo, horeca, e-commerce), como hacen las secciones de “Services/Solutions” de Asian Food Group, pero adaptadas a tu estructura de canales.
+​
+​
+
+Estructura:
+
+Intro general
+
+Párrafo sobre cómo LB Asian Food se convierte en aliado estratégico para capitalizar la popularización de la cultura asiática, alineado a tu discurso de oportunidad de mercado.
+​
+
+Distribución a cadenas comerciales
+
+Qué incluye: catálogo especializado, soporte en surtido, apoyo en lanzamientos, logística a nivel nacional.
+​
+
+Micro‐CTA: “Solicitar propuesta para cadena”.
+
+Mayoristas y tiendas especializadas
+
+Oferta para mayoristas y tiendas asiáticas independientes, con enfoque en variedad y profundidad de surtido.
+​
+
+Restaurantes y horeca
+
+Propuesta para restaurantes coreanos y otros conceptos que busquen autenticidad, destacando productos clave y continuidad de suministro.
+​
+
+Soluciones digitales y e-commerce
+
+Breve bloque sobre soporte a canales digitales (ej. integraciones, contenido, fotos), tomando inspiración de la sección de “Digital commerce” de Asian Food Group.
+​
+
+Portafolio
+Objetivo: transformar el “Catálogo de productos cadenas 2026” en una experiencia navegable con filtros y SEO, evitando listas PDF como único recurso.
+​
+
+Estructura:
+
+Intro y filtro por categoría
+
+Texto corto sobre portafolio amplio y con variedad de opciones por categoría, como indica el documento, con buscador y filtros por categoría, marca y tipo de cliente.
+​
+
+Listado de categorías (landing SEO)
+
+Cada categoría con su propia página optimizada: “Ramen coreano”, “Snacks”, “Bebidas”, “Salsas y condimentos”, etc.
+
+Cada página con:
+
+Descripción breve de la categoría y sus usos.
+
+Grid de productos (nombre, marca, gramaje, configuración de caja, foto) tal como se sugiere en el catálogo.
+​
+
+Detalle de producto (opcional en esta fase)
+
+Página por producto con información técnica básica y botón “Solicitar información / cotización”, replicando la lógica B2B de sitios como Samyang o Lotte, pero simplificada.
+​
+
+Marcas
+Objetivo: capitalizar la fuerza de las marcas coreanas y asiáticas con storytelling tipo “our story” de Bibigo y la sección “Our brands” de Asian Food Group.
+​
+​
+
+Secciones:
+
+Intro
+
+Explicación de que trabajas con marcas líderes como Lotte, Nongshim, Paldo, Samjin, HY, Samyang, CJ, etc., consolidando un portafolio con productos reconocidos a nivel internacional.
+​
+
+Grid de marcas
+
+Logo + mini descripción + tipo de productos + botón “Ver productos de esta marca”.
+
+Esto se inspira en la forma en la que Asian Food Group resalta 380+ marcas y su diversidad en categorías.
+​
+
+Storytelling / Destacados
+
+Bloques especiales para 2–3 marcas estratégicas con storytelling más emocional (enfoque como Bibigo “blending heritage with innovation”).
+​
+
+Recursos
+Objetivo: construir autoridad y SEO con contenido educativo y materiales descargables sin complicar todavía con un blog enorme.
+​
+​
+
+Bloques:
+
+Guías y descargables
+
+“Guía para crear un pasillo asiático exitoso”, “Tendencias de consumo asiático en México”, etc., en formato PDFs / one-pagers, reforzando tu posición como aliado estratégico.
+​
+
+Casos / historias de éxito (etapa siguiente, pero se reserva espacio)
+
+Espacio para futuros casos de éxito con cadenas o mayoristas, inspirado en el enfoque de “brand ambition” y “growth & awareness” de Asian Food Group.
+​
+
+Preguntas frecuentes B2B
+
+Preguntas sobre mínimos de compra, tiempos de entrega, cobertura geográfica, soportes promocionales, etc., estructuradas con foco SEO.
+
+Contacto / Cotizar
+Objetivo: convertir en lead con la menor fricción posible pero capturando datos clave para ventas B2B.
+​
+
+Contenido:
+
+Formulario principal
+
+Campos: nombre, empresa, tipo de negocio (cadena, mayorista, tienda, restaurante, otros), ciudad/estado, correo, teléfono, mensaje.
+
+Selector de interés: “Distribución a cadena”, “Mayorista”, “Portafolio para tienda”, “Información de marca específica”.
+
+Datos de contacto corporativo
+
+Dirección, teléfonos y correos tal como se señalan en el documento B2B 2026, con énfasis en correos de ventas a cadenas.
+​
+
+CTA secundarios
+
+“Agendar reunión” (link a calendario) y “Descargar presentación corporativa” como atajo para quienes solo quieran información rápida.
+​
