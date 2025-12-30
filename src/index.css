@@ -3,9 +3,9 @@
 @tailwind utilities;
 
 :root {
-  --lb-primary: #e31a23; 
-  --lb-secondary: #027dc3; 
-  --lb-accent: #f8971d; 
+  --lb-primary:#027dc3; 
+  --lb-secondary: #f8971d; 
+  --lb-accent: #e31a23; 
 
   font-family: "Montserrat", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
     Roboto, "Helvetica Neue", Arial, sans-serif;
