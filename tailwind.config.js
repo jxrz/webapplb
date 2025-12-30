@@ -16,7 +16,7 @@ export default {
         "lb-light": "#f8f9fa",
       },
       fontFamily: {
-        sans: ["Inter", "system-ui", "sans-serif"],
+        sans: ["Montserrat", "system-ui", "sans-serif"],
       },
     },
   },
