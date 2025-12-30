@@ -1,6 +1,7 @@
 import React from 'react';
 import { MainLayout } from '@/components/layout/MainLayout';
 import { Button } from '@/components/ui/Button';
+import ClientCarousel from '@/components/ui/ClientCarousel';
 import { motion } from 'framer-motion';
 import { ArrowRight, CheckCircle, Globe, Truck, Users } from 'lucide-react';
 import { Link } from 'react-router-dom';
@@ -93,14 +94,7 @@ const Home = () => {
             <p className="text-gray-500">Trabajamos con las principales cadenas y marcas líderes</p>
           </div>
           
-          <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5 gap-8 items-center opacity-60 grayscale hover:grayscale-0 transition-all duration-500">
-            {/* Real Clients */}
-            {['Wal-Mart', 'Costco', 'HEB', 'Amazon', 'YEMA', 'Super Sánchez', 'Casa Ley', 'Aeroméxico', 'Hyundai'].map((client) => (
-              <div key={client} className="h-20 bg-gray-50 rounded-lg flex items-center justify-center text-gray-500 font-bold border border-gray-100 hover:border-lb-primary/30 transition-all">
-                {client}
-              </div>
-            ))}
-          </div>
+          <ClientCarousel />
         </div>
       </section>
 

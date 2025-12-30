@@ -3,9 +3,9 @@
 @tailwind utilities;
 
 :root {
-  --lb-primary: #d30616; /* Extracted Red from logo.png */
-  --lb-secondary: #007cc3; /* Extracted Blue from logo.png */
-  --lb-accent: #f8971d; /* Extracted Orange from logo.png */
+  --lb-primary: #e31a23; 
+  --lb-secondary: #027dc3; 
+  --lb-accent: #f8971d; 
 
   font-family: "Montserrat", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
     Roboto, "Helvetica Neue", Arial, sans-serif;
