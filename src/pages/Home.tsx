@@ -32,7 +32,7 @@ const Home = () => {
               Socio Estratégico B2B
             </span>
             <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold text-white leading-tight mb-6">
-              Distribuidor mayorista de <span className="text-transparent bg-clip-text bg-gradient-to-r from-lb-primary to-lb-accent">alimentos asiáticos</span> en México
+              Importador y comercializador <span className="text-transparent bg-clip-text bg-gradient-to-r from-lb-primary to-lb-accent">alimentos asiáticos</span> en México
             </h1>
             <p className="text-xl text-gray-300 mb-8 max-w-2xl">
               Más de 10 años conectando marcas líderes de Asia con cadenas comerciales, mayoristas y food service en todo el país.
