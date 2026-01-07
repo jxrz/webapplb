@@ -1,5 +1,6 @@
 import React from 'react';
 import { MainLayout } from '@/components/layout/MainLayout';
+import PortfolioCarousel from '@/components/ui/PortfolioCarousel';
 
 const Portfolio = () => {
   return (
@@ -10,10 +11,9 @@ const Portfolio = () => {
           Nuestra selección de marcas y productos premium.
         </p>
       </div>
-      <div className="container mx-auto px-4 py-16 text-center">
-        <p className="text-lg text-gray-600">
-          [Catálogo interactivo en construcción - Próximamente filtros por categoría y marca]
-        </p>
+      
+      <div className="container mx-auto px-4 py-16">
+        <PortfolioCarousel />
       </div>
     </MainLayout>
   );
